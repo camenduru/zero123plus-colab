@@ -16,3 +16,5 @@ https://arxiv.org/abs/2310.15110
 
 ## Output
 
+![Screenshot 2023-10-26 041846](https://github.com/camenduru/zero123plus-colab/assets/54370274/7a364536-df28-4718-b671-3bf29428dd87)
+![Screenshot 2023-10-26 042231](https://github.com/camenduru/zero123plus-colab/assets/54370274/38d23cfe-9a77-4cc6-98a3-4b599e18c7e3)
