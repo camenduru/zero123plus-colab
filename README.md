@@ -9,7 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/zero123plus-colab/blob/main/zero123plus_colab.ipynb) | zero123plus_colab
 
 ## Main Repo
-https://github.com/SUDO-AI-3D/zero123plus
+https://github.com/SUDO-AI-3D/zero123plus <br />
+https://huggingface.co/spaces/sudo-ai/zero123plus-demo-space/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2310.15110
